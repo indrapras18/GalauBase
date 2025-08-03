@@ -36,7 +36,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/username/galau-base.git
+git clone https://github.com/indrapras18/galau-base.git
 cd galau-base
 
 # Install dependency

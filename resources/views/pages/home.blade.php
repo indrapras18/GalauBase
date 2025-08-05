@@ -22,7 +22,7 @@
                                 <div class="song-artist">Kunto Aji</div>
                             </div>
                             <div class="memory-preview">
-                                "Waktu itu aku sendirian di taman sambil mikirin kamu..."
+                                "you are always my space travel..."
                             </div>
                         </div>
 
@@ -35,11 +35,11 @@
                                 <i class="fas fa-play"></i>
                             </button>
                             <div class="song-info">
-                                <div class="song-title">Surat Cinta untuk Starla</div>
-                                <div class="song-artist">Virgoun</div>
+                                <div class="song-title">Bella Luna</div>
+                                <div class="song-artist">Jason Mraz</div>
                             </div>
                             <div class="memory-preview">
-                                "Lagu ini mengingatkanku pada malam pertama kita..."
+                                "Lagu ini mengingatkanku pada malam yang dihiasi caha bulan dan bintang..."
                             </div>
                         </div>
 
@@ -87,7 +87,7 @@
                             </div>
                             <button class="play-button">
                                 <i class="fas fa-play"></i>
-                            </button>
+                            </button>.
                             <div class="song-info">
                                 <div class="song-title">Sampai Jadi Debu</div>
                                 <div class="song-artist">Banda Neira</div>

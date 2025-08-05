@@ -708,7 +708,7 @@
 
         document.addEventListener('DOMContentLoaded', function() {
             // Typing effect
-            const typingText = "Selamat datang di Cerita Lagu ❤️";
+            const typingText = "Selamat datang di Galau Base❤️";
             const typingTarget = document.getElementById('typing-title');
             let typingIndex = 0;
 
